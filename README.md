@@ -11,7 +11,6 @@ Welcome to **Week 2** of our Java learning journey. This week was focused on mas
   - [04: Object Modeling and Class Diagrams](#04-object-modeling-and-class-diagrams)
   - [05: Inheritance](#05-inheritance)
   - [06: Encapsulation, Interface, Abstract Classes, and Polymorphism](#06-encapsulation-interface-abstract-classes-and-polymorphism)
-- [Completed Assignments](#completed-assignments)
 - [How to Use This Repository](#how-to-use-this-repository)
 - [Next Steps](#next-steps)
 
@@ -54,14 +53,6 @@ This week introduced key object-oriented concepts and design principles using Ja
 - Encapsulation and use of getters/setters
 - Abstract classes vs. Interfaces
 - Implementing polymorphism through method overriding and dynamic binding
-
-## Completed Assignments
-- Submission of Java Class and Object
-- Submission of Java Constructors, Instance vs. Class Variables, Access Modifiers (Level 1 Lab Practice)
-- Submission of `this`, `static`, `final`, and `instanceof` (Level 1 Lab Practice)
-- Submission of Object-Oriented Design Principles
-- Submission of Inheritance
-- Submission of Encapsulation, Polymorphism, Interface
 
 ## How to Use This Repository
 
